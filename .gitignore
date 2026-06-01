@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+projekat
+fft_compression
+main
+*.exe
+*.out
+
+# Generated images
+kompresovana*.png
+difference*.png
+output*.png
+
+# VS Code temporary files
+.vscode/ipch/
+
+# OS files
+.DS_Store
+Thumbs.db
