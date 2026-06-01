@@ -1,3 +1,12 @@
 {
-  "editor.tabSize": 4
+    "files.associations": {
+        "*.hpp": "cpp",
+        "*.h": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-x64"
 }
